@@ -8,6 +8,9 @@
 
 The goal of this project is to upscale and improve the quality of low resolution images.
 
+> **Community revival fork:** This repository is maintained as a community revival fork of the original `idealo/image-super-resolution` project. The upstream project announced that it is no longer actively maintained and was archived. This fork preserves the original Apache-2.0 license, attribution, and research references while focusing on modernization, compatibility, tests, and documentation. See [ROADMAP.md](ROADMAP.md) and [CONTRIBUTING.md](CONTRIBUTING.md).
+
+
 Since the code is no longer actively maintained, it will be archived on 2025-01-03.
 
 This project contains Keras implementations of different Residual Dense Networks for Single Image Super-Resolution (ISR) as well as scripts to train these networks using content and adversarial loss components.  
@@ -30,6 +33,7 @@ ISR is compatible with Python 3.6 and is distributed under the Apache 2.0 licens
 - [Installation](#installation)
 - [Usage](#usage)
 - [Additional Information](#additional-information)
+- [Community revival roadmap](ROADMAP.md)
 - [Contribute](#contribute)
 - [Citation](#citation)
 - [Maintainers](#maintainers)
@@ -294,3 +298,4 @@ Please cite our work in your publications if it helps your research.
 ## Copyright
 
 See [LICENSE](LICENSE) for details.
+
